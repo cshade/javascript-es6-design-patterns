@@ -1,0 +1,19 @@
+{
+  "name": "design-pattern-examples",
+  "version": "1.0.0",
+  "description": "Design Pattern Examples in Javascript ES6 for reference",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshade/javascript-es6-design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshade/javascript-es6-design-patterns/issues"
+  },
+  "homepage": "https://github.com/cshade/javascript-es6-design-patterns#readme"
+}
