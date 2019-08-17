@@ -1,4 +1,3 @@
-var Publication = require('./Publication')
+var Publication = require("./Publication");
 
-module.exports = class MemoirPub extends Publication {
-}
+module.exports = class MemoirPub extends Publication {};

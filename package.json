@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cshade/javascript-es6-design-patterns/issues"
   },
-  "homepage": "https://github.com/cshade/javascript-es6-design-patterns#readme"
+  "homepage": "https://github.com/cshade/javascript-es6-design-patterns#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
 }

@@ -1,6 +1,5 @@
 module.exports = class Publication {
-
-    constructor (pub) {
+    constructor(pub) {
         this.type = pub.type;
         this.authors = pub.authors;
         this.title = pub.title;
@@ -12,14 +11,14 @@ module.exports = class Publication {
     }
 
     printCatalogEntry() {
-        return ( `${this.title} by ${this.authors}
+        return `${this.title} by ${this.authors}
             ${this.type}, ${this.year}
             ${this.dimensions}, ${this.pages}
             ${this.isbn}
-            ${this.price}` )
+            ${this.price}`;
     }
 
     getFullTitle() {
-        return (`${this.title} by ${this.authors}`);
+        return `${this.title} by ${this.authors}`;
     }
-}
+};

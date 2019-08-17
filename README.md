@@ -13,10 +13,12 @@ Diagram: TK
 ### Run
 
 Factory demo output to console (UI output is TK):
-``` bash
-node factory.js
+
+```bash
+node factory/factory.js
 ```
 
 ## Built With
-- Vanilla Javascript ES6 (no framework or utility libraries)
-- [Node.js](https://nodejs.org/en/): JavaScript runtime
+
+-   Vanilla Javascript ES6 (no framework or utility libraries)
+-   [Node.js](https://nodejs.org/en/): JavaScript runtime
